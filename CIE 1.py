@@ -21,7 +21,7 @@ max_freq_bin = bin_edges[np.argmax(hist)]
 print(max_freq_bin)  
 
 
-# In[3]:
+# In[3]:yugukgkyv vjytfygfbvvhjg6tgv hvjyt68tgbh v
 
 
 import matplotlib.pyplot as plt
