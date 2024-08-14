@@ -10,7 +10,7 @@ import numpy as np
 df = pd.read_csv("C:/Users/HP/Downloads/mtcars.csv")
 
 plt.hist(df['mpg'])
-plt.title('Histogram of MPG')
+
 plt.xlabel('MPG')
 plt.ylabel('Frequency')
 plt.grid(True)
